@@ -91,9 +91,14 @@ This Challenge is graded based on the following criteria:
 
 You are required to submit the following for review:
 
-* The URL of the deployed application
+Live URL:
 
-* The URL of the GitHub repository, with a unique name and a README describing the project
+https://brandonchristopherlopez.github.io/DayPlanner/Links to an external site.
 
+ 
+
+Github repo:
+
+https://github.com/brandonchristopherlopez/DayPlanner
 - - -
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
