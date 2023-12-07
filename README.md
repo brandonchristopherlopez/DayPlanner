@@ -93,12 +93,13 @@ You are required to submit the following for review:
 
 Live URL:
 
-https://brandonchristopherlopez.github.io/DayPlanner/Links to an external site.
+https://brandonchristopherlopez.github.io/DayPlanner/
 
  
 
 Github repo:
 
 https://github.com/brandonchristopherlopez/DayPlanner
+
 - - -
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
